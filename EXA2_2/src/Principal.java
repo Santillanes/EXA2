@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 
 /*
@@ -171,6 +170,11 @@ public class Principal {
                         || (banu1 && banu4 && banu7) || (banu2 && banu5 && banu8) || (banu3 && banu6 && banu9)
                         || (banu1 && banu5 && banu9) || (banu3 && banu5 && banu7)){
                     System.out.println("El usuario gana.");
+                    System.out.println("    1   2   3  ");
+                    System.out.println("1 "+p1+p2+p3+"|");
+                    System.out.println("2 "+p4+p5+p6+"|");
+                    System.out.println("3 "+p7+p8+p9+"|");
+                    System.out.println("");
                     System.out.println("Desea seguir jugando? Responda si o no.");
                     String jugar = input.nextLine();
                     switch (jugar){
@@ -198,6 +202,11 @@ public class Principal {
                         || (banc1 && banc4 && banc7) || (banc2 && banc5 && banc8) || (banc3 && banc6 && banc9)
                         || (banc1 && banc5 && banc9) || (banc3 && banc5 && banc7)){
                     System.out.println("La computadora gana.");
+                    System.out.println("    1   2   3  ");
+                    System.out.println("1 "+p1+p2+p3+"|");
+                    System.out.println("2 "+p4+p5+p6+"|");
+                    System.out.println("3 "+p7+p8+p9+"|");
+                    System.out.println("");
                     System.out.println("Desea seguir jugando? Responda si o no.");
                     String jugar = input.nextLine();
                     switch (jugar){
@@ -221,6 +230,11 @@ public class Principal {
                             break;
                     }
                 }else if(ban1 && ban2 && ban3 && ban4 && ban5 && ban6 && ban7 && ban8 && ban9){
+                    System.out.println("    1   2   3  ");
+                    System.out.println("1 "+p1+p2+p3+"|");
+                    System.out.println("2 "+p4+p5+p6+"|");
+                    System.out.println("3 "+p7+p8+p9+"|");
+                    System.out.println("");
                     System.out.println("Ninguno gana. Desea seguir jugando? Responda si o no.");
                     String jugar = input.nextLine();
                     switch (jugar){
@@ -369,6 +383,11 @@ public class Principal {
                         || (banu1 && banu4 && banu7) || (banu2 && banu5 && banu8) || (banu3 && banu6 && banu9)
                         || (banu1 && banu5 && banu9) || (banu3 && banu5 && banu7)){
                     System.out.println("El usuario gana.");
+                    System.out.println("    1   2   3  ");
+                    System.out.println("1 "+p1+p2+p3+"|");
+                    System.out.println("2 "+p4+p5+p6+"|");
+                    System.out.println("3 "+p7+p8+p9+"|");
+                    System.out.println("");
                     System.out.println("Desea seguir jugando? Responda si o no.");
                     String jugar = input.nextLine();
                     switch (jugar){
@@ -396,6 +415,11 @@ public class Principal {
                         || (banc1 && banc4 && banc7) || (banc2 && banc5 && banc8) || (banc3 && banc6 && banc9)
                         || (banc1 && banc5 && banc9) || (banc3 && banc5 && banc7)){
                     System.out.println("La computadora gana.");
+                    System.out.println("    1   2   3  ");
+                    System.out.println("1 "+p1+p2+p3+"|");
+                    System.out.println("2 "+p4+p5+p6+"|");
+                    System.out.println("3 "+p7+p8+p9+"|");
+                    System.out.println("");
                     System.out.println("Desea seguir jugando? Responda si o no.");
                     String jugar = input.nextLine();
                     switch (jugar){
@@ -419,6 +443,11 @@ public class Principal {
                             break;
                     }
                 }else if(ban1 && ban2 && ban3 && ban4 && ban5 && ban6 && ban7 && ban8 && ban9){
+                    System.out.println("    1   2   3  ");
+                    System.out.println("1 "+p1+p2+p3+"|");
+                    System.out.println("2 "+p4+p5+p6+"|");
+                    System.out.println("3 "+p7+p8+p9+"|");
+                    System.out.println("");
                     System.out.println("Ninguno gana. Desea seguir jugando? Responda si o no.");
                     String jugar = input.nextLine();
                     switch (jugar){
@@ -574,6 +603,11 @@ public class Principal {
                         || (banu1 && banu4 && banu7) || (banu2 && banu5 && banu8) || (banu3 && banu6 && banu9)
                         || (banu1 && banu5 && banu9) || (banu3 && banu5 && banu7)){
                     System.out.println("El usuario gana.");
+                    System.out.println("    1   2   3  ");
+                    System.out.println("1 "+p1+p2+p3+"|");
+                    System.out.println("2 "+p4+p5+p6+"|");
+                    System.out.println("3 "+p7+p8+p9+"|");
+                    System.out.println("");
                     System.out.println("Desea seguir jugando? Responda si o no.");
                     String jugar = input.nextLine();
                     switch (jugar){
@@ -601,6 +635,11 @@ public class Principal {
                         || (banc1 && banc4 && banc7) || (banc2 && banc5 && banc8) || (banc3 && banc6 && banc9)
                         || (banc1 && banc5 && banc9) || (banc3 && banc5 && banc7)){
                     System.out.println("La computadora gana.");
+                    System.out.println("    1   2   3  ");
+                    System.out.println("1 "+p1+p2+p3+"|");
+                    System.out.println("2 "+p4+p5+p6+"|");
+                    System.out.println("3 "+p7+p8+p9+"|");
+                    System.out.println("");
                     System.out.println("Desea seguir jugando? Responda si o no.");
                     String jugar = input.nextLine();
                     switch (jugar){
@@ -624,6 +663,11 @@ public class Principal {
                             break;
                     }
                 }else if(ban1 && ban2 && ban3 && ban4 && ban5 && ban6 && ban7 && ban8 && ban9){
+                    System.out.println("    1   2   3  ");
+                    System.out.println("1 "+p1+p2+p3+"|");
+                    System.out.println("2 "+p4+p5+p6+"|");
+                    System.out.println("3 "+p7+p8+p9+"|");
+                    System.out.println("");
                     System.out.println("Ninguno gana. Desea seguir jugando? Responda si o no.");
                     String jugar = input.nextLine();
                     switch (jugar){
@@ -766,6 +810,11 @@ public class Principal {
                         || (banu1 && banu4 && banu7) || (banu2 && banu5 && banu8) || (banu3 && banu6 && banu9)
                         || (banu1 && banu5 && banu9) || (banu3 && banu5 && banu7)){
                     System.out.println("El usuario gana.");
+                    System.out.println("    1   2   3  ");
+                    System.out.println("1 "+p1+p2+p3+"|");
+                    System.out.println("2 "+p4+p5+p6+"|");
+                    System.out.println("3 "+p7+p8+p9+"|");
+                    System.out.println("");
                     System.out.println("Desea seguir jugando? Responda si o no.");
                     String jugar = input.nextLine();
                     switch (jugar){
@@ -793,6 +842,11 @@ public class Principal {
                         || (banc1 && banc4 && banc7) || (banc2 && banc5 && banc8) || (banc3 && banc6 && banc9)
                         || (banc1 && banc5 && banc9) || (banc3 && banc5 && banc7)){
                     System.out.println("La computadora gana.");
+                    System.out.println("    1   2   3  ");
+                    System.out.println("1 "+p1+p2+p3+"|");
+                    System.out.println("2 "+p4+p5+p6+"|");
+                    System.out.println("3 "+p7+p8+p9+"|");
+                    System.out.println("");
                     System.out.println("Desea seguir jugando? Responda si o no.");
                     String jugar = input.nextLine();
                     switch (jugar){
@@ -816,6 +870,11 @@ public class Principal {
                             break;
                     }
                 }else if(ban1 && ban2 && ban3 && ban4 && ban5 && ban6 && ban7 && ban8 && ban9){
+                    System.out.println("    1   2   3  ");
+                    System.out.println("1 "+p1+p2+p3+"|");
+                    System.out.println("2 "+p4+p5+p6+"|");
+                    System.out.println("3 "+p7+p8+p9+"|");
+                    System.out.println("");
                     System.out.println("Ninguno gana. Desea seguir jugando? Responda si o no.");
                     String jugar = input.nextLine();
                     switch (jugar){
